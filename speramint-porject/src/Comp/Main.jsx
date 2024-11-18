@@ -14,7 +14,7 @@ function Main() {
   return (
     <div className="container" onClick={handleClick}>
       <img
-        src="https://www.wizard.financial/static/media/wizaart-img.56787174.gif" // Replace with your GIF URL
+        src="https://www.wizard.financial/static/media/wizaart-img.56787174.gif" 
         alt="Moving GIF"
         className="moving-gif"
         style={{
